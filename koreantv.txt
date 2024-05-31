@@ -1,0 +1,14 @@
+KBS1，http://mytv.dothome.co.kr/ch/public/1.php
+KBS2，http://mytv.dothome.co.kr/ch/public/3.php
+KBSdrama，http://mytv.dothome.co.kr/ch/catv/2.php
+KBS世界，https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS新闻,http://mytv.dothome.co.kr/ch/catv/1.php
+SBS综艺，http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+MBC，http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+TVN1，https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+TVN2，http://extraott.com:80/live/7921751389/6097373662/473547.m3u8
+TJB，http://1.245.74.5:1935/live/tv/.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+BBS，http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+KCTV，http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
